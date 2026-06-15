@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/CustomerView.html",
+      "destination": "/index.html"
+    }
+  ]
+}
